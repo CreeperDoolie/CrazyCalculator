@@ -1,4 +1,4 @@
-# CrazyCalculator
+# Crazy Calculator
 This is a calculator I programmed for a class in basic python.
 
 When you launch crazycalculator.py, it will show a intro panel that says the name of the calculator, "Crazy Calculator", and "By: CreeperDoolie". Right after that loads, a promt will appear asking for a operator Ex:) +,-,*,/.
